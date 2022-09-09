@@ -4,7 +4,7 @@
   "description": "Redis database adapter for ShareDB",
   "main": "index.js",
   "dependencies": {
-    "redis": "^4.3.1",
+    "redis": "^4.2.0",
     "sharedb": "^1.0.0-beta.23"
   },
   "devDependencies": {
